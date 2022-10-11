@@ -2,7 +2,7 @@
 
 namespace App\AbstractFactory\Human;
 
-class MaleWhiteHuman extends AbstractYellowHuman
+class MaleWhiteHuman extends AbstractWhiteHuman
 {
     public function sex()
     {
